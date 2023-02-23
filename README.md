@@ -1,35 +1,7 @@
-# vue-ecommerce-site
+A simple ecommerce site I created in order to practice Vue and Pinia.
 
-This template should help get you started developing with Vue 3 in Vite.
+It grabs products from https://fakestoreapi.com
 
-## Recommended IDE Setup
+You can view the site here: https://neon-unicorn-008b6d.netlify.app/
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+Your cart is persisted in localStorage.
